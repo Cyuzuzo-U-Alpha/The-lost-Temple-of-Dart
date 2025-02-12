@@ -1,6 +1,8 @@
 Activity Title: "The Lost Temple of Dart"
 
-Name: Registration Number: 221007079
+Name: Cyuzuzo Uwase Alphonsine
+
+Registration Number: 221007079
 
 Scenario:
 You're an explorer navigating a mysterious temple filled with traps, puzzles, and treasures. Each room in the temple requires solving Dart-based challenges to progress. Your goal is to collect 3 golden relics (treasures) before your health reaches 0. The temple has 6 unique rooms, and you can only visit each room once.
